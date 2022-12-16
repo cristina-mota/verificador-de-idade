@@ -10,6 +10,7 @@ Atividade usando interatividade com JavaScript. Aula do Prof. Gustavo Guanabara.
 ![Captura de Ecrã (34)](https://user-images.githubusercontent.com/110698111/208163056-51510bc4-4791-430a-8f4f-b96e893d9966.png)
 
 >>Acesso
+ https://cristina-mota.github.io/verificador-de-idade/
 
 >>Contato
 cm.crismota@gmail.com
